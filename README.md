@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Welcome to Bishwa Studio
 
-<!--
-**bishwastudio/bishwastudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bishwa Studio** is an independent development studio focused on building simple, useful mobile apps and open-source tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 Apps
+
+Some of the apps developed under Bishwa Studio:
+
+- Heart Touching Quotes
+- Nepali Baby Names *(coming soon)*
+
+More apps and tools will be added over time.
+
+---
+
+## 🛠️ What We Build
+
+- Android applications
+- Small utility apps
+- Open-source Android tools
+
+
+---
+
+## 👨‍💻 Founder
+
+**Bishwa Ghimire**
+
+BSc CSIT Student — Tribhuvan University, Nepal  
+Interested in Artificial Intelligence, Machine Learning, and Android development.
+
+Personal GitHub:  
+👉 https://github.com/bishwaghimire
+
+---
+
+## 📬 Contact
+
+Email: **bishwastudio.apps@gmail.com**
+
+---
+
+⭐ Thanks for visiting **Bishwa Studio**
