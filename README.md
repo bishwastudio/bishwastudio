@@ -22,7 +22,7 @@ Apps developed under **Bishwa Studio**:
 
 | App | Description | Status |
 |-----|-------------|--------|
-| Heart Touching Quotes | A collection of emotional and inspirational quotes. | Available |
+| Heart Touching Quotes | A collection of emotional and inspirational quotes. | Coming Soon |
 | Nepali Baby Names | Discover meaningful Nepali baby names. | Coming Soon |
 
 More apps and tools will be added over time.
