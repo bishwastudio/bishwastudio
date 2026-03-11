@@ -1,15 +1,29 @@
-# 👋 Welcome to Bishwa Studio
+# <p align="center">Bishwa Studio</p>
 
-**Bishwa Studio** is an independent development studio focused on building simple, useful mobile apps and open-source tools.
+<p align="center">
+  <img src="assets/logo.png" alt="Bishwa Studio Logo" width="160">
+</p>
+
+<p align="center">
+  <b>Building simple, useful Android apps and open-source tools.</b>
+</p>
+
+<p align="center">
+  🌐 <a href="https://studio.bishwaghimire.com.np/">Website</a> •
+  <!-- 💻 <a href="https://github.com/bishwaghimire">GitHub</a> • -->
+  📧 <a href="mailto:bishwastudio.apps@gmail.com">Email</a>
+</p>
 
 ---
 
 ## 📱 Apps
 
-Some of the apps developed under Bishwa Studio:
+Apps developed under **Bishwa Studio**:
 
-- Heart Touching Quotes
-- Nepali Baby Names *(coming soon)*
+| App | Description | Status |
+|-----|-------------|--------|
+| Heart Touching Quotes | A collection of emotional and inspirational quotes. | Available |
+| Nepali Baby Names | Discover meaningful Nepali baby names. | Coming Soon |
 
 More apps and tools will be added over time.
 
@@ -17,10 +31,11 @@ More apps and tools will be added over time.
 
 ## 🛠️ What We Build
 
-- Android applications
-- Small utility apps
-- Open-source Android tools
+- 📱 Android Applications  
+- 🧰 Small Utility Apps  
+- 🌍 Open-Source Android Tools  
 
+Our goal is to build **lightweight, useful, and user-friendly apps**.
 
 ---
 
@@ -29,17 +44,23 @@ More apps and tools will be added over time.
 **Bishwa Ghimire**
 
 BSc CSIT Student — Tribhuvan University, Nepal  
-Interested in Artificial Intelligence, Machine Learning, and Android development.
 
-Personal GitHub:  
-👉 https://github.com/bishwaghimire
+Interested in:
+- Artificial Intelligence
+- Machine Learning
+- Android Development
+
+🔗 GitHub: [bishwaghimire](https://github.com/bishwaghimire)
 
 ---
+
 
 ## 📬 Contact
 
-Email: **bishwastudio.apps@gmail.com**
+📧 Email: **bishwastudio.apps@gmail.com**
 
 ---
 
-⭐ Thanks for visiting **Bishwa Studio**
+<p align="center">
+⭐ If you like our project, consider giving it a star!
+</p>
